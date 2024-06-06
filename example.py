@@ -1,3 +1,3 @@
-print("Example")
+print("Example 1")
 
-print("Example")
+print("Example 2")
